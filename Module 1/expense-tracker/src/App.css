@@ -1,0 +1,215 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #c9b2df;
+}
+
+.page {
+  min-height: 100vh;
+  padding: 30px 15px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 25px;
+  background: white;
+  border-radius: 25px;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+/* Summary */
+.summary {
+  border: 6px solid #2caf50;
+  padding: 20px;
+}
+
+.balance h3 {
+  margin: 0;
+}
+
+.balance h2 {
+  font-size: 40px;
+  margin: 5px 0;
+}
+
+.summary-title {
+  text-align: center;
+  color: #d52d3b;
+}
+
+.summary-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 3px 10px #ccc;
+}
+
+.summary-box h3 {
+  margin: 0;
+}
+
+.income {
+  color: #35b85a;
+  font-size: 24px;
+}
+
+.expense {
+  color: #d9535d;
+  font-size: 24px;
+}
+
+.line {
+  width: 2px;
+  height: 60px;
+  background: #ddd;
+}
+
+/* History */
+.history {
+  border: 6px solid #d92332;
+  padding: 15px;
+  margin-top: 25px;
+}
+
+.history h2 {
+  margin: 0;
+}
+
+.transaction {
+  display: flex;
+  justify-content: space-between;
+  padding: 18px;
+  margin: 15px 0;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px #ddd;* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #c9b2df;
+}
+
+.page {
+  min-height: 100vh;
+  padding: 30px 15px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 25px;
+  background: white;
+  border-radius: 25px;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+/* Summary */
+.summary {
+  border: 6px solid #2caf50;
+  padding: 20px;
+}
+
+.balance h3 {
+  margin: 0;
+}
+
+.balance h2 {
+  font-size: 40px;
+  margin: 5px 0;
+}
+
+.summary-title {
+  text-align: center;
+  color: #d52d3b;
+}
+
+.summary-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 3px 10px #ccc;
+}
+
+.summary-box h3 {
+  margin: 0;
+}
+
+.income {
+  color: #35b85a;
+  font-size: 24px;
+}
+
+.expense {
+  color: #d9535d;
+  font-size: 24px;
+}
+
+.line {
+  width: 2px;
+  height: 60px;
+  background: #ddd;
+}
+
+/* History */
+.history {
+  border: 6px solid #d92332;
+  padding: 15px;
+  margin-top: 25px;
+}
+
+.history h2 {
+  margin: 0;
+}
+
+.transaction {
+  display: flex;
+  justify-content: space-between;
+  padding: 18px;
+  margin: 15px 0;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px #ddd;
+  font-size: 18px;
+}
+
+.income-border {
+  border-right: 7px solid #35c95c;
+}
+
+.expense-border {
+  border-right: 7px solid #e33c48;
+}
+
+
+  font-size: 18px;
+}
+
+.income-border {
+  border-right: 7px solid #35c95c;
+}
+
+.expense-border {
+  border-right: 7px solid #e33c48;
+}
